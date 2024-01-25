@@ -1,4 +1,6 @@
-# iOS-TorontoRaptorTicketBooking
+# TorontoRaptor Ticket Booking - IOS
 
-https://github.com/ravigelani1124/iOS-TorontoRaptorTicketBooking/assets/16309069/2aa45313-9c2f-43fc-8b9d-4796986b8b61
+
+
+https://github.com/ronakmangroliya/TorontoRaptor_Ticket_Booking_IOS/assets/11982391/edd8b9fd-66c7-4efc-8330-527275e2c559
 
